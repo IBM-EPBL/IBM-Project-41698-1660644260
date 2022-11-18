@@ -9,4 +9,5 @@ This Project mainly focuses on applying Neural Networks to predict the Crude Oil
 
 Technical Architecture:
 
-image
+![image](https://user-images.githubusercontent.com/113226690/202648455-836cccec-297b-41d8-a51d-6a3ed6b54a03.png)
+
